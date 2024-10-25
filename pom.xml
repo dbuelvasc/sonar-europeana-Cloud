@@ -193,6 +193,8 @@
 
         <maven.compiler.source>${version.jdk}</maven.compiler.source>
         <maven.compiler.target>${version.jdk}</maven.compiler.target>
+        <sonar.organization>dbuelvasc</sonar.organization>
+        <sonar.host.url>https://sonarcloud.io</sonar.host.url>
     </properties>
 
     <profiles>
